@@ -2,9 +2,9 @@
 /**
  *  Express.class.php           快递查询类
  *
- * @copyright					widuu
- * @license						http://www.widuu.com
- * @lastmodify					2013-6-19
+ * @copyright			widuu
+ * @license			http://www.widuu.com
+ * @lastmodify			2013-6-19
  */
 
 class Express {
