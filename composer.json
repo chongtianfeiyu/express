@@ -1,0 +1,7 @@
+{
+    "name": "widuu/express",
+    "description": "a express classes",
+    "require": {
+        "php": ">=5.0.0",
+    }
+}
